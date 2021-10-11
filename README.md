@@ -4,3 +4,4 @@ Learning Python
 2. Strings
 3. Lists
 4. Tuples
+5. Dictionaries
