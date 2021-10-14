@@ -7,3 +7,4 @@ Learning Python
 5. Dictionaries
 6. Sets
 7. Conditions & Branching
+8. Loops
