@@ -9,3 +9,4 @@ Learning Python
 7. Conditions & Branching
 8. Loops
 9. Functions
+10. Exception Handling
