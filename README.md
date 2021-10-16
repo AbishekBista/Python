@@ -10,3 +10,4 @@ Learning Python
 8. Loops
 9. Functions
 10. Exception Handling
+11. Classes and Objects
