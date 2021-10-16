@@ -8,3 +8,4 @@ Learning Python
 6. Sets
 7. Conditions & Branching
 8. Loops
+9. Functions
