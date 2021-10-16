@@ -11,3 +11,4 @@ Learning Python
 9. Functions
 10. Exception Handling
 11. Classes and Objects
+12. Reading File
