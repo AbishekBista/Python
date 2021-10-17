@@ -13,3 +13,5 @@ Learning Python
 11. Classes and Objects
 12. Reading File
 13. Writing File
+14. Loading Data
+15. Numpy 1-D
