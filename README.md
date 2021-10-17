@@ -15,3 +15,4 @@ Learning Python
 13. Writing File
 14. Loading Data
 15. Numpy 1-D
+16. Numpy 2-D
