@@ -18,3 +18,5 @@ Learning Python
 16. Numpy 2-D
 17. Introduction to APIs
 18. Watson Speech-to-Text and Language Translator
+19. HTTP Requests
+20. 
