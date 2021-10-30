@@ -1,14 +1,14 @@
 # Python
 Learning Python
-1. First Python Program
-2. Strings
-3. Lists
-4. Tuples
-5. Dictionaries
-6. Sets
-7. Conditions & Branching
-8. Loops
-9. Functions
+1.  First Python Program
+2.  Strings
+3.  Lists
+4.  Tuples
+5.  Dictionaries
+6.  Sets
+7.  Conditions & Branching
+8.  Loops
+9.  Functions
 10. Exception Handling
 11. Classes and Objects
 12. Reading File
@@ -19,4 +19,4 @@ Learning Python
 17. Introduction to APIs
 18. Watson Speech-to-Text and Language Translator
 19. HTTP Requests
-20. 
+20. Webscraping 
